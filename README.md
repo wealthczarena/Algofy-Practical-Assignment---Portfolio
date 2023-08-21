@@ -29,9 +29,13 @@ Implementation of dynamic content rendering using the Liquid templating engine:
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Desktop Layout
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/wealthczarena/assets/blob/main/images/hero-web.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/wealthczarena/assets/blob/main/images/about-web.png)
+
+![Web 3](https://github.com/wealthczarena/assets/blob/main/images/projects-web.png)
+
+![Web 4](https://github.com/wealthczarena/assets/blob/main/images/contact-web.png)
 
 ## Tablet Layout
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
