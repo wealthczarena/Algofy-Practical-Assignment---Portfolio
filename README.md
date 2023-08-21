@@ -5,77 +5,92 @@
 
 https://czacawealth.netlify.app/
 
-**[Algofy](https://www.algofy.com/)** is a leading digital marketing agency working with dozens of brands across industries and **Algofy's Practical Assignment** is a task to evaluate problem-solving and understanding of web development concepts as part of their recruitment process. [Link to their website](https://www.algofy.com/).
+**Algofy** is a leading digital marketing agency working with dozens of brands across industries and **Algofy's Practical Assignment** is a task to evaluate problem-solving and understanding of web development concepts as part of their recruitment process. [Link to their website](https://www.algofy.com/).
 
-The project consists of using advanced CSS techniques to 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+The project consists of using advanced CSS techniques to Create a responsive webpage which includes the following:
 
-## Layout mobile
+## HTML, Advanced CSS, and JavaScript - Part 1
+- A navigation bar with three links: Home, About, Contact, and a logo (logos can be premade)
+    - Application of advanced CSS techniques to enhance the navigation bar and make it mobile-friendly
+- A hero section with a heading, a subheading, and a background image (images can be premade)
+- An About section with a brief paragraph about yourself and an image and by using JavaScript, allow users to expand and collapse the paragraph on the About section
+    - Application of CSS grid or flexbox to achieve a visually pleasing layout for this section
+- A Contact section with a form that includes fields for name, email, and message
+    - Application of advanced CSS styling techniques to create an attractive form design.
+
+## DYNAMIC CONTENT GENERATION
+Implementation of dynamic content rendering using the Liquid templating engine:
+- Create a JSON or YAML file that contains an array of objects, each representing a project you've worked on in the past
+- Use Liquid to dynamically generate a "Projects" section on your webpage and iterate through the array of project objects and display each project's information, including its name, description, and an image
+- Add a link or button to each project that leads to its corresponding GitHub repository
+- Use Liquid filters to truncate long project descriptions and ensure they fit neatly within the layout
+
+## Mobile Layout
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-## Layout web
+## Desktop Layout
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-## Modelo conceitual
+## Tablet Layout
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+# Tech Stack Used
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- HTML 
+- CSS
+- JavaScript
+- Vanilla JavaScript
 
-# Como executar o projeto
+## Version Control & Deployment
+- Netlify
+- Git
 
-## Back end
-Pré-requisitos: Java 11
+## Cool Features
+- Responsive Nav Bar
+- Infinite Marquee
+- Vanilla Javascript Masonry
+- Typewriter Text Effect
+- Smooth Scrolling with mouse, keyboard, or trackpad
+- Responsive Grid Layout
+- Overlay effect with text on image hover
+- Responsive buttons
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+## Typography
+- Porlane
+- NeueMontreal
 
-# entrar na pasta do projeto back end
-cd backend
+## Color
+Shades
+- #152a21
+- #21352c
 
-# executar o projeto
-./mvnw spring-boot:run
-```
+Tints
+- #e6f3ed
+
+# How to access the website
+![Right here!](https://czacawealth.netlify.app/)
 
 ## Front end web
 Pré-requisitos: npm / yarn
 
 ```bash
-# clonar repositório
+# clone repository
 git clone https://github.com/devsuperior/sds1-wmazoni
 
-# entrar na pasta do projeto front end web
+# enter the front end folder
 cd front-web
 
-# instalar dependências
+# install dependencies
 yarn install
 
-# executar o projeto
+# execute the project
 yarn start
 ```
 
 # Autor
 
-Wellington Mazoni de Andrade
+Czarena Wealth
 
-https://www.linkedin.com/in/wmazoni
-
-
-
+(https://www.linkedin.com/in/czarenawealth/)
