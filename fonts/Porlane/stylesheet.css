@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Porlane';
+    src: url('Porlane-Regular.eot');
+    src: local('Porlane Regular'), local('Porlane-Regular'),
+        url('Porlane-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Porlane-Regular.woff2') format('woff2'),
+        url('Porlane-Regular.woff') format('woff'),
+        url('Porlane-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Porlane';
+    src: url('Porlane-Slanted.eot');
+    src: local('Porlane Slanted'), local('Porlane-Slanted'),
+        url('Porlane-Slanted.eot?#iefix') format('embedded-opentype'),
+        url('Porlane-Slanted.woff2') format('woff2'),
+        url('Porlane-Slanted.woff') format('woff'),
+        url('Porlane-Slanted.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
