@@ -18,7 +18,7 @@ The project consists of using advanced CSS techniques to Create a responsive web
 - A Contact section with a form that includes fields for name, email, and message
     - Application of advanced CSS styling techniques to create an attractive form design.
 
-## DYNAMIC CONTENT GENERATION
+## Dynamic Content Generation - Part 2
 Implementation of dynamic content rendering using the Liquid templating engine:
 - Create a JSON or YAML file that contains an array of objects, each representing a project you've worked on in the past
 - Use Liquid to dynamically generate a "Projects" section on your webpage and iterate through the array of project objects and display each project's information, including its name, description, and an image
