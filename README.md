@@ -5,7 +5,7 @@
 
 https://czacawealth.netlify.app/
 
-**Algofy** is a leading digital marketing agency working with dozens of brands across industries and **Algofy's Practical Assignment** is a task to evaluate problem-solving and understanding of web development concepts as part of their recruitment process. [Link to their website](https://www.algofy.com/).
+**Algofy** is a leading digital marketing agency working with dozens of brands across industries and **Algofy's Practical Assignment** is a task to evaluate problem-solving and understanding of web development concepts as part of their recruitment process. (https://www.algofy.com/).
 
 The project consists of using advanced CSS techniques to Create a responsive webpage which includes the following:
 
