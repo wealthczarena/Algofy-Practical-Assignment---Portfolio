@@ -188,6 +188,12 @@ body {
   padding: 1.2rem 2.4rem;
 }
 
+.btn--socials:link,
+.btn--socials:visited {
+  color: #152a21;
+  border: 1px solid #152a21;
+}
+
 .btn--socials:hover,
 .btn--socials:active {
   background-color: #152a21;
