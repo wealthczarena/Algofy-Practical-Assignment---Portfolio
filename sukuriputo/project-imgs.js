@@ -30,7 +30,7 @@ const description = [
   "Generative art with Javascript",
 ];
 
-const link = ["https://omnifoodprjt.netlify.app/", "#", "#", "#", "#", "#"];
+const link = ["https://omnifoodprjt.netlify.app/", "https://czacawealth.netlify.app/", "#", "#", "#", "#"];
 
 let imageIndex = 0;
 
