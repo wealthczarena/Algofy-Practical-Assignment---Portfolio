@@ -103,4 +103,12 @@ Instead, 1rem = 1em = 16px*/
     font-size: 0.7rem;
     padding: 1rem 0.8rem;
   }
+  .contact-grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+  .contact-img {
+    width: 0;
+    height: 0;
+  }
 }
