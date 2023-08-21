@@ -51,7 +51,6 @@ Instead, 1rem = 1em = 16px*/
     font-size: 50%;
   }
   .hero-text {
-    margin-top: 8rem;
     font-size: 1.2rem;
   }
   .marquee-content h1 {
@@ -100,8 +99,8 @@ Instead, 1rem = 1em = 16px*/
     grid-template-rows: 1fr;
   }
   .abtnt1 {
-    display: inline-block;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
+    line-height: 1;
   }
   .hero-cta {
     font-size: 0.7rem;
@@ -119,7 +118,7 @@ Instead, 1rem = 1em = 16px*/
     font-size: 1.4rem;
   }
   .hero-text {
-    margin-top: 1rem;
+    margin-top: 3rem;
     font-size: 1.2rem;
   }
 }
