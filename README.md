@@ -5,7 +5,7 @@
 
 https://czacawealth.netlify.app/
 
-**Algofy(https://www.algofy.com/)** is a leading digital marketing agency working with dozens of brands across industries and **Algofy's Practical Assignment** is a task to evaluate problem-solving and understanding of web development concepts as part of their recruitment process. [Link to their website](https://www.algofy.com/).
+**[Algofy](https://www.algofy.com/)** is a leading digital marketing agency working with dozens of brands across industries and **Algofy's Practical Assignment** is a task to evaluate problem-solving and understanding of web development concepts as part of their recruitment process. [Link to their website](https://www.algofy.com/).
 
 The project consists of using advanced CSS techniques to 
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
