@@ -25,36 +25,6 @@ Implementation of dynamic content rendering using the Liquid templating engine:
 - Add a link or button to each project that leads to its corresponding GitHub repository
 - Use Liquid filters to truncate long project descriptions and ensure they fit neatly within the layout
 
-## Mobile Layout
-![Mobile 1](https://github.com/wealthczarena/assets/blob/main/images/hero-mobile.jpg) 
-
-![Mobile 2](https://github.com/wealthczarena/assets/blob/main/images/about-mobile.jpg)
-
-![Mobile 3](https://github.com/wealthczarena/assets/blob/main/images/project-mobile.jpg)
-
-![Mobile 4]()
-
-## Tablet Layout
-![Tab 1](https://github.com/wealthczarena/assets/blob/main/images/hero-tab.png)
-
-![Tab 2](https://github.com/wealthczarena/assets/blob/main/images/about-tab.png)
-
-![Tab 3](https://github.com/wealthczarena/assets/blob/main/images/projects-tab.png)
-
-![Tab 4](https://github.com/wealthczarena/assets/blob/main/images/contact-tab.png)
-
-## Desktop Layout
-![Web 1](https://github.com/wealthczarena/assets/blob/main/images/hero-web.png)
-
-![Web 2](https://github.com/wealthczarena/assets/blob/main/images/about-web.png)
-
-![Web 3](https://github.com/wealthczarena/assets/blob/main/images/projects-web.png)
-
-![Web 4](https://github.com/wealthczarena/assets/blob/main/images/contact-web.png)
-
-
-
-
 # Tech Stack Used
 ## Front end
 - HTML 
@@ -68,6 +38,7 @@ Implementation of dynamic content rendering using the Liquid templating engine:
 
 ## Cool Features
 - Responsive Nav Bar
+- Text effect on hover: nav bar items (Home, About, Contact) 
 - Infinite Marquee
 - Vanilla Javascript Masonry
 - Typewriter Text Effect
@@ -88,21 +59,52 @@ Shades
 Tints
 - #e6f3ed
 
+## Mobile Layout
+![Mobile 1](https://github.com/wealthczarena/assets/blob/main/images/hero-mobile.jpg) 
+
+![Mobile 2](https://github.com/wealthczarena/assets/blob/main/images/about-mobile.jpg)
+
+![Mobile 3](https://github.com/wealthczarena/assets/blob/main/images/project-mobile.jpg)
+
+## Tablet Layout
+![Tab 1](https://github.com/wealthczarena/assets/blob/main/images/hero-tab.png)
+
+![Tab 2](https://github.com/wealthczarena/assets/blob/main/images/about-tab.png)
+
+![Tab 3](https://github.com/wealthczarena/assets/blob/main/images/projects-tab.png)
+
+![Tab 4](https://github.com/wealthczarena/assets/blob/main/images/contact-tab.png)
+
+## Desktop Layout
+![Web 1](https://github.com/wealthczarena/assets/blob/main/images/hero-web.png)
+
+![Web 2](https://github.com/wealthczarena/assets/blob/main/images/about-web.png)
+
+![Web 3](https://github.com/wealthczarena/assets/blob/main/images/projects-web.png)
+
+![Web 4](https://github.com/wealthczarena/assets/blob/main/images/contact-web.png)
+
 ## Developer's Log
-You would notice that although the assignment requested me to use JSON and Liquid templates, the Liquid template aspect isn't included. (However, if you check my review-html) The reason being that, I found out not too long ago and I mean a few hours ago that Liquid templates don't work with HTML and JavaScript like I thought, so my JSON code obviously wasn't working. I then quickly found a way to do the same task but with Javascript, by creating a project-imgs.js folder that creates an array of posts taking images as objects and a function to iterate through the area and create the necessary HTML structure. I tested it with images first as a test run to see if my code and logic would work since my JSON file wasn't working. and later added the other details such as link, description, title, etc. 
+- You would notice that although the assignment requested me to use JSON and Liquid templates, the Liquid template aspect isn't included. (However, if you check my not-so-html folder, you would find a review HTML file with every code I commented on because I intend to review them later on and understand why they didn't work as intended) The reason is that I found out not too long ago and I mean a few hours ago that Liquid templates don't work with HTML and JavaScript like I thought, so my JSON code obviously wasn't working. I then quickly found a way to do the same task but with Javascript, by creating a project-imgs.js folder that creates an array of posts taking images as objects and a function to iterate through the area and create the necessary HTML structure. I tested it with images first as a test run to see if my code and logic would work since my JSON file wasn't working. And when it did, I progressively added the other details such as link, description, title, etc. and styled them with CSS, and used Vanilla Js to create Masonry Responsive Grid
+- 
 
 # How to access the website
-![Right here!](https://czacawealth.netlify.app/)
+(https://czacawealth.netlify.app/)
 
-## Front end web
+- Use the nav bar to navigate through the sections of the site
+- Click the buttons in the hero to access contact me or view my projects
+- Hover on images to reveal project details in the Project section
+- Use mouse, trackpad, and keyboard to scroll through the website (smooth scroll implementation)
+
+## To clone repository
 Pré-requisitos: npm / yarn
 
 ```bash
 # clone repository
 git clone https://github.com/devsuperior/sds1-wmazoni
 
-# enter the front end folder
-cd front-web
+# enter folder name
+cd folder-name
 
 # install dependencies
 yarn install
