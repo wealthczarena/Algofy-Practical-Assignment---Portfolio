@@ -26,7 +26,22 @@ Implementation of dynamic content rendering using the Liquid templating engine:
 - Use Liquid filters to truncate long project descriptions and ensure they fit neatly within the layout
 
 ## Mobile Layout
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/wealthczarena/assets/blob/main/images/hero-mobile.jpg) 
+
+![Mobile 2](https://github.com/wealthczarena/assets/blob/main/images/about-mobile.jpg)
+
+![Mobile 3](https://github.com/wealthczarena/assets/blob/main/images/project-mobile.jpg)
+
+![Mobile 4]()
+
+## Tablet Layout
+![Tab 1](https://github.com/wealthczarena/assets/blob/main/images/hero-tab.png)
+
+![Tab 2](https://github.com/wealthczarena/assets/blob/main/images/about-tab.png)
+
+![Tab 3](https://github.com/wealthczarena/assets/blob/main/images/projects-tab.png)
+
+![Tab 4](https://github.com/wealthczarena/assets/blob/main/images/contact-tab.png)
 
 ## Desktop Layout
 ![Web 1](https://github.com/wealthczarena/assets/blob/main/images/hero-web.png)
@@ -37,8 +52,8 @@ Implementation of dynamic content rendering using the Liquid templating engine:
 
 ![Web 4](https://github.com/wealthczarena/assets/blob/main/images/contact-web.png)
 
-## Tablet Layout
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+
+
 
 # Tech Stack Used
 ## Front end
