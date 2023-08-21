@@ -88,6 +88,9 @@ Shades
 Tints
 - #e6f3ed
 
+## Developer's Log
+You would notice that although the assignment requested me to use JSON and Liquid templates, the Liquid template aspect isn't included. (However, if you check my review-html) The reason being that, I found out not too long ago and I mean a few hours ago that Liquid templates don't work with HTML and JavaScript like I thought, so my JSON code obviously wasn't working. I then quickly found a way to do the same task but with Javascript, by creating a project-imgs.js folder that creates an array of posts taking images as objects and a function to iterate through the area and create the necessary HTML structure. I tested it with images first as a test run to see if my code and logic would work since my JSON file wasn't working. and later added the other details such as link, description, title, etc. 
+
 # How to access the website
 ![Right here!](https://czacawealth.netlify.app/)
 
