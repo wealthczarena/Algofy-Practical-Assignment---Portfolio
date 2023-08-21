@@ -115,7 +115,10 @@ Instead, 1rem = 1em = 16px*/
     height: 0;
   }
   .contact-logo {
-    font-size: 1.4rem;
+    font-size: 1.8rem;
+  }
+  .contact-header {
+    font-size: 7.8rem
   }
   .hero-text {
     margin-top: 3rem;
