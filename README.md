@@ -86,7 +86,6 @@ Tints
 
 ## Developer's Log
 - You would notice that although the assignment requested me to use JSON and Liquid templates, the Liquid template aspect isn't included. (However, if you check my not-so-html folder, you would find a review HTML file with every code I commented on because I intend to review them later on and understand why they didn't work as intended) The reason is that I found out not too long ago and I mean a few hours ago that Liquid templates don't work with HTML and JavaScript like I thought, so my JSON code obviously wasn't working. I then quickly found a way to do the same task but with Javascript, by creating a project-imgs.js folder that creates an array of posts taking images as objects and a function to iterate through the area and create the necessary HTML structure. I tested it with images first as a test run to see if my code and logic would work since my JSON file wasn't working. And when it did, I progressively added the other details such as link, description, title, etc. and styled them with CSS, and used Vanilla Js to create Masonry Responsive Grid
-- 
 
 # How to access the website
 (https://czacawealth.netlify.app/)
@@ -101,10 +100,10 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clone repository
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/wealthczarena/Algofy-Practical-Assignment---Portfolio
 
-# enter folder name
-cd folder-name
+# enter your folder name
+cd your-folder-name
 
 # install dependencies
 yarn install
