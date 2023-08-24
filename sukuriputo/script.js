@@ -74,7 +74,7 @@ function generateMasonryGrid(columns, posts) {
       // Creating a link element
       let link = document.createElement("a");
       link.href = post.link;
-      link.textContent = "Go to Site";
+      link.textContent = "Go to Repo";
 
       // Appending the image, title, and overlay to the postDiv
       overlayDiv.appendChild(title);
