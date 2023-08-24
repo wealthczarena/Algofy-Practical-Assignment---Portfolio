@@ -3,6 +3,7 @@ const posts = [];
 const images = [
   "imgs-compressed/omnifood-mockup.png",
   "imgs-compressed/portfolio-screenshot.png",
+  "imgs-compressed/ssaway.png",
   "imgs-compressed/cr-coding-prjt-1.png",
   "imgs-compressed/cr-coding-prjt-2.png",
   "imgs-compressed/cr-coding-prjt-3.png",
@@ -13,6 +14,7 @@ const images = [
 const names = [
   "Omnifood Project",
   "Personal Portfolio",
+  "Spin, Spin Away",
   "Creative Coding with Javascript",
   "Creative Coding with Javascript",
   "Creative Coding with Javascript",
@@ -21,8 +23,9 @@ const names = [
 ];
 
 const description = [
-  "A website for a startup which specializes in making people eat healthy",
-  "Personal Porfolio website that was created as a technical task for a Web Intern Position",
+  "A website for a startup which specializes in making people eat healthily",
+  "Personal Portfolio website that was created as a technical task for a Web Intern Position",
+  "My first Three.js Project",
   "Generative art with Javascript",
   "Generative art with Javascript",
   "Generative art with Javascript",
@@ -30,7 +33,12 @@ const description = [
   "Generative art with Javascript",
 ];
 
-const link = ["https://omnifoodprjt.netlify.app/", "https://czacawealth.netlify.app/", "#", "#", "#", "#"];
+const link = ["https://github.com/wealthczarena/Omnifood-Project", "https://github.com/wealthczarena/Algofy-Practical-Assignment---Portfolio", 
+              "https://github.com/wealthczarena/Spin-Spin-Away.git", "#",
+  "#",
+  "#",
+  "#",
+  "#",];
 
 let imageIndex = 0;
 
