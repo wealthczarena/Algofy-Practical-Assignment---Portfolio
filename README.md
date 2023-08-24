@@ -1,5 +1,5 @@
 ﻿# Algofy-Practical-Test---Portfolio
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/wealthczarena/Algofy-Practical-Assignment---Portfolio/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/wealthczarena/Algofy-Practical-Assignment---Portfolio/blob/main/LICENSE) [![Netlify Status](https://api.netlify.com/api/v1/badges/2a944ede-84cb-4594-aea7-701871391600/deploy-status)](https://app.netlify.com/sites/czacawealth/deploys)
 
 # About the project
 
