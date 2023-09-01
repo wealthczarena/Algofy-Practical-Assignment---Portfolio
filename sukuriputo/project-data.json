@@ -1,0 +1,42 @@
+[
+  {
+    "projectName": "Omnifood",
+    "projectTechStack": ["HTML", "CSS"],
+    "projectImage": "imgs/omnifood-mockup.png",
+    "projectLink": "https://omnifoodprjt.netlify.app/",
+    "projectDescription": "A website for a startup which specializes in making people eat healthy",
+    "projectStatus": "Done. However, currently incorporating Javascript animations into it"
+  },
+  {
+    "projectName": "Personal Portfolio",
+    "projectTechStack": ["HTML", "CSS", "Javascript", "GSAP"],
+    "projectImage": "imgs/omnifood-mockup.png",
+    "projectLink": "#",
+    "projectDescription": "A website for a finance company that tracks expenses, and helps users regain control of their money",
+    "projectStatus": "Done"
+  },
+  {
+    "projectName": "First Three.js Project",
+    "projectTechStack": ["HTML", "HTML Canvas", "CSS", "Three.js"],
+    "projectImage": "imgs/ReadyPlayerMe-Avatar.jpeg",
+    "projectLink": "#",
+    "projectDescription": "A simple spinning sphere and cube with Three.js animation library",
+    "projectStatus": "Done"
+  },
+  {
+    "projectName": "Creative Coding with Javascript",
+    "projectTechStack": ["HTML Canvas", "Javascript"],
+    "projectImage": ["imgs/cr-coding-prjt-4.png"],
+    "projectLink": "#",
+    "projectDescription": "Generative art with Javascript",
+    "projectStatus": "In progress"
+  },
+  {
+    "projectName": "Gitso",
+    "projectTechStack": ["HTML", "CSS", "Javascript", "GSAP"],
+    "projectImage": "imgs/readyplayerme-3d-smily-upclose.jpeg",
+    "projectLink": "#",
+    "projectDescription": "A website for a finance company that tracks expenses, and helps users regain control of their money. Ps. using a behance website as reference",
+    "projectStatus": "In progress"
+  }
+]

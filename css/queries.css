@@ -51,7 +51,6 @@ Instead, 1rem = 1em = 16px*/
     font-size: 50%;
   }
   .hero-text {
-    margin-top: 8rem;
     font-size: 1.2rem;
   }
   .marquee-content h1 {
@@ -67,6 +66,12 @@ Instead, 1rem = 1em = 16px*/
 /* BELOW 544px (Phones) */
 /*********************************/
 @media (max-width: 34rem) {
+  .hero-section {
+    margin-top: 0;
+  }
+  .marquee {
+    margin-bottom: 4rem;
+  }
   .marquee-content h1 {
     font-size: 18rem;
   }
@@ -99,9 +104,14 @@ Instead, 1rem = 1em = 16px*/
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
   }
+  .abtnt1 {
+    font-size: 1.4rem;
+    line-height: 1;
+  }
   .hero-cta {
     font-size: 0.7rem;
     padding: 1rem 0.8rem;
+    margin-top: 0;
   }
   .contact-grid {
     grid-template-columns: 1fr;
@@ -112,10 +122,16 @@ Instead, 1rem = 1em = 16px*/
     height: 0;
   }
   .contact-logo {
-    font-size: 1.4rem;
+    font-size: 1.8rem;
+  }
+  .contact-header {
+    font-size: 5rem;
+  }
+  .contact-text {
+    margin-top: 2rem;
   }
   .hero-text {
-    margin-top: 4rem;
+    margin-bottom: 3rem;
     font-size: 1.2rem;
   }
 }
