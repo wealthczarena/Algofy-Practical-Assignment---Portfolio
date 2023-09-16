@@ -43,12 +43,12 @@ const description = [
 ];
 
 const link = [
-  "https://github.com/wealthczarena/Omnifood-Project",
-  "https://github.com/wealthczarena/Algofy-Practical-Assignment---Portfolio",
-  "https://github.com/wealthczarena/Spin-Spin-Away.git",
-  "https://github.com/wealthczarena/Row-Row-Tate",
-  "https://github.com/wealthczarena/Tis-Day",
-  "https://github.com/wealthczarena/Tis-Night",
+  "https://omnifoodprjt.netlify.app/",
+  "https://czacawealth.netlify.app/",
+  "https://codepen.io/czaczar/full/qBLbBBG",
+  "https://codepen.io/czaczar/full/jOXrxMx",
+  "https://tis-day.vercel.app/",
+  "https://tis-night.netlify.app/",
   "#",
   "#",
   "#",
